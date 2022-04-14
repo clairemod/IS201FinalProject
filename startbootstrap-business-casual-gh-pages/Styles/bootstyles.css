@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(151, 163, 152);
+    resize: both;
+
+
+}
+
+.headCenter{
+        text-align: center;
+}
+
+.Center{
+    text-align: center; 
+    text-decoration: underline;
+}
+.Tableft{
+    padding-left: 100px;
+    padding-right: 100px
+
+}
+
+
